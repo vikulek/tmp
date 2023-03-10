@@ -1,7 +1,6 @@
 # Практическая работа №1
 ## Выполнила Турбина В.А., БИСО-03-20
-
-```
+```plantuml
 @startuml
 left to right direction
 skinparam packageStyle rect
