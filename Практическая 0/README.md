@@ -15,3 +15,4 @@ rectangle ATM {
 }
 @enduml
 ```
+![Image alt](https://github.com/vikulek/tmp/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%200/zero.jpg)
