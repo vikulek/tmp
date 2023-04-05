@@ -1,7 +1,7 @@
 # Практическая работа 1
 ## Вариант 2
 Диаграмма вариантов использования:
-'''plantuml
+```plantuml
 @startuml
 left to right direction
 skinparam packageStyle rectangle
@@ -23,11 +23,11 @@ rectangle Библиотека {
 
 }
 @enduml
-'''
+```
 ![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
 
 Диаграмма классов:
-'''plantuml
+```plantuml
 @startuml
 Читатель --> Книга: возврат
 Читатель --> Книга: поиск
@@ -62,10 +62,10 @@ class Библиотекарь {
   Списание книги()
 }
 @enduml
-'''
+```
 
 Диаграмма последовательности:
-'''plantuml
+```plantuml
 @startuml
 actor Читатель 
 actor Библиотекарь
@@ -97,5 +97,4 @@ activate Библиотека
 Библиотекарь -> Библиотека: Списание книги
 deactivate Библиотека
 @enduml
-
-'''
+```
