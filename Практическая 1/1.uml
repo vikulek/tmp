@@ -1,3 +1,4 @@
+'''pluntuml
 @startuml
 left to right direction
 skinparam packageStyle rectangle
@@ -19,3 +20,4 @@ rectangle Библиотека {
 
 }
 @enduml
+'''
